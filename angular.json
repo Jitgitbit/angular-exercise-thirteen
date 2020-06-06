@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-exercise-thirteen"
+    }
+  },
+  "defaultProject": "angular-exercise-thirteen",
+  "cli": {
+    "analytics": false
+  }
 }
